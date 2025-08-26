@@ -15,6 +15,7 @@
 ## 💼 Experiencia Destacada
 - **Santa Priscila S.A.** *(04/2024 – Presente)*  
   App móvil en Kotlin + Jetpack Compose; APIs REST en Laravel.  
+  Web Vue 2 y Laravel (PHP).
 - **SafeWay** *(05/2023 – 09/2023)*  
   Backend en Laravel, pruebas automatizadas con Jest/Supertest.  
 - **ECRobotics** *(02/2023 – 06/2023)*  
