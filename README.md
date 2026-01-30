@@ -7,7 +7,7 @@
 
 ## 🔧 Tech Stack
 - **Frontend:** Vue 2/3, React (Next.js), TypeScript, JavaScript  
-- **Backend:** Laravel, Node.js (Express), PHP  
+- **Backend:** Laravel (PHP), Node.js (Express), Python (FastAPI)
 - **Mobile:** Kotlin (Jetpack Compose)  
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB  
 - **Herramientas:** Git, Docker, CI/CD, AWS, GCP  
@@ -26,7 +26,7 @@
 - AWS Fundamentals (Coursera), Platzi (POO, Python Intermedio), etc.  
 
 ## 📫 Contacto
-- 📧 dpaulsoria@gmail.com  
+- 📧 dw926@proton.me  
 - 🔗 [linkedin.com/in/dpaulsoria](https://linkedin.com/in/dpaulsoria)   
 
 ## 📊 GitHub Stats
