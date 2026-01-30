@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hola, soy Danny Paul Soria Muñoz</h1>
-<h3 align="center">Ingeniero de Software | Full Stack & Mobile Developer</h3>
+<h3 align="center">Ingeniero en Ciencias de la Computación | Full Stack & Mobile Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dpaulsoria&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
 </p>
-
+## Portfolio Web
+🔗 [Pagina](https://dpaulsoria.github.io/me)
 ## 🔧 Tech Stack
 - **Frontend:** Vue 2/3, React (Next.js), TypeScript, JavaScript  
 - **Backend:** Laravel (PHP), Node.js (Express), Python (FastAPI)
