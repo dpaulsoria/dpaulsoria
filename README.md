@@ -4,8 +4,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dpaulsoria&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
 </p>
+
+
 ## Portfolio Web
 🔗 [Pagina](https://dpaulsoria.github.io/me)
+
+
 ## 🔧 Tech Stack
 - **Frontend:** Vue 2/3, React (Next.js), TypeScript, JavaScript  
 - **Backend:** Laravel (PHP), Node.js (Express), Python (FastAPI)
