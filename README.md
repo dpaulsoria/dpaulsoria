@@ -7,7 +7,7 @@
 
 
 ## Portfolio Web
-🔗 [Pagina](https://dpaulsoria.github.io/me)
+🔗 [Page](https://dpaulsoria.github.io/me)
 
 
 ## 🔧 Tech Stack
