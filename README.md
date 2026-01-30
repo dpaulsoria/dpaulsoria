@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hola, soy Danny Paul Soria Muñoz</h1>
-<h3 align="center">Ingeniero en Ciencias de la Computación | Full Stack & Mobile Developer</h3>
+<h1 align="center">👋 I'm Danny Paul Soria</h1>
+<h3 align="center">Computer Science Engineer (B.Sc.) – Full‑Stack & Mobile Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dpaulsoria&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
@@ -17,7 +17,7 @@
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB  
 - **Herramientas:** Git, Docker, CI/CD, AWS, GCP  
 
-## 💼 Experiencia Destacada
+## 💼 Work Experience
 - **Santa Priscila S.A.** *(04/2024 – Presente)*  
   App móvil en Kotlin + Jetpack Compose; APIs REST en Laravel.  
   Web Vue 2 y Laravel (PHP).
@@ -26,11 +26,11 @@
 - **ECRobotics** *(02/2023 – 06/2023)*  
   Desarrollo IoT con Node.js y Vue.js; gestión de bases de datos MySQL/PostgreSQL.  
 
-## 🎓 Educación y Certificaciones
-- B.Sc. en Ciencias de la Computación, ESPOL (2024)  
+## 🎓 Education and Certifications
+- B.Sc. in Computer Science Engineering, ESPOL (2024)  
 - AWS Fundamentals (Coursera), Platzi (POO, Python Intermedio), etc.  
 
-## 📫 Contacto
+## 📫 Contact
 - 📧 dw926@proton.me  
 - 🔗 [linkedin.com/in/dpaulsoria](https://linkedin.com/in/dpaulsoria)   
 
